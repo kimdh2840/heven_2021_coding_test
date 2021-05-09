@@ -1,11 +1,12 @@
 '''
-시작 시각 :
+시작 시각 : 21:45
 종료 시각 :
 '''
 
 
 class Cake:
-    def __init__(self):  sdaffsdafasd
+    def __init__(self, name, price, ingredient):
+
         pass
 
 
